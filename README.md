@@ -1,6 +1,6 @@
 # Análise Multicritério Interativa para AIA
 
-Este repositório contém um código interativo em Python que auxilia no ensino e compreensão de **análise multicritério (AMC)** no contexto de **Avaliação de Impacto Ambiental (AIA)**. Ele foi projetado para rodar no Google Colab e permite que os estudantes explorem a ponderação de critérios e a avaliação de alternativas de forma prática e intuitiva.
+Este repositório contém um código interativo em Python que auxilia no ensino e compreensão de **análise multicritério (AMC)** no contexto de **Avaliação de Impacto Ambiental (AIA)**, projetado para rodar no Google Colab e que permite que os estudantes explorem a ponderação de critérios e a avaliação de alternativas de forma prática e intuitiva.
 
 ---
 
